@@ -5,3 +5,7 @@ api: [5.0.0]
 version: 1.5.0+dev
 main: Vanic\Bloody\Cosmetics\Main
 load: POSTWORLD
+
+permissions:
+  bloodycosmetics.use:
+    default: true
